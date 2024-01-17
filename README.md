@@ -1,5 +1,6 @@
-# Previsão do tempo
-Foi utilizada uma API de clima <i>[OpenWeather](https://openweathermap.org/current) usando JavaScript. <br> 
+#  🌤️ Previsão do tempo
+Foi utilizada uma API de clima <i>[OpenWeather](https://openweathermap.org/current) usando JavaScript utilizando alguns conceitos de CSS, como flexbox e grid.
+ <br> 
 
 ## ⚙ Funcionalidades 
 Verifique as características climáticas da sua cidade:
