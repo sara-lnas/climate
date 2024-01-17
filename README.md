@@ -27,5 +27,5 @@ Verifique as características climáticas da sua cidade:
  
  ###
 
-**Link do site:** <i>[clique aqui](https://sara-lnas.github.io/BMI-calculation/) <br>
+**Link do site:** <i>[clique aqui](https://sara-lnas.github.io/climate/) <br>
 
