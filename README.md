@@ -10,7 +10,7 @@ Verifique as características climáticas da sua cidade:
     <li>Vento</li>
  </ul>
 
- ![print](https://github.com/sara-lnas/BMI-calculation/assets/123497334/3917d785-77f6-47c2-bd9e-c76013ec1434)
+ ![climate](https://github.com/sara-lnas/climate/assets/123497334/85d09cd5-0796-4ee7-91d0-02fc24135f43)
  
 ## Tecnologias utilizadas:<br>
 ###
